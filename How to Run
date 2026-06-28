@@ -1,0 +1,39 @@
+---
+
+## Tools & Libraries
+
+| Tool | Purpose |
+|---|---|
+| Python | Core language |
+| Pandas | Data loading, cleaning, manipulation |
+| NumPy | Numerical operations |
+| Scikit-learn | Feature selection, modelling, tuning, evaluation |
+| Matplotlib / Seaborn | Visualizations (heatmaps, distributions, ROC curves) |
+| SMOTE (imbalanced-learn) | Class balancing |
+
+---
+
+## How to Run
+
+1. Clone the repository
+2. Install dependencies:
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn openpyxl
+```
+3. Open `code2.ipynb` in Jupyter Notebook or JupyterLab
+4. Run cells sequentially — each section includes 
+   interpretation markdown cells after every output
+
+> **Note:** The original dataset file (`company_performance_culture.xlsx`) 
+> is not included in this repository. The notebook structure, 
+> methodology, and all outputs are fully documented and visible 
+> in the notebook.
+
+---
+
+## Authors
+
+**Amine Bouraoui** 
+Master in Business Analytics — Mediterranean School of Business (MSB)  
+[LinkedIn](https://www.linkedin.com/in/amine-bouraoui-4b103631b) · 
+[GitHub](https://github.com/amine-bouraoui)

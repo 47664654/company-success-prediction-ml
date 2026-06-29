@@ -125,7 +125,3 @@ All models evaluated with **80/20 train-test split** and
 *"What is your Profit Margin?"*  
 — Profit Margin is the strongest and most consistent predictor 
 across both regression and classification tasks.
-
----
-
-## Repository Structure

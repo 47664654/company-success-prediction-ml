@@ -7,7 +7,7 @@ and organizational culture dimensions.
 Built as part of the Master in Business Analytics program at 
 Mediterranean School of Business (MSB), Tunis — October 2025.
 
-**Authors:** Amine Bouraoui · Emna Labben
+**Authors:** Amine Bouraoui 
 
 ---
 

@@ -20,7 +20,7 @@
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn openpyxl
 ```
-3. Open `code2.ipynb` in Jupyter Notebook or JupyterLab
+3. Open `Company_Success_Prediction.ipynb` in Jupyter Notebook or JupyterLab
 4. Run cells sequentially — each section includes 
    interpretation markdown cells after every output
 
